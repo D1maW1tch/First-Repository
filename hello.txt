@@ -1,2 +1,1 @@
 print("Hello Amoguses!")
-print("How are you")
